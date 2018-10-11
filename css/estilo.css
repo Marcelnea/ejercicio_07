@@ -1,0 +1,67 @@
+
+	*{
+	padding: 0;
+	margin: 0;
+
+	}
+
+	.superior{
+	width: 100%;
+	background-image: url(../assets/images/2.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	padding-bottom: 50px;
+
+	}
+
+
+.clearfix {
+	
+	clear:both;
+	color: white;
+
+	}
+
+.bajada {
+		text-align: center;
+		font-size: 15px;
+		width: 60%;
+		margin: auto;
+		padding-bottom: 30px;
+	}
+
+.titulo{
+		text-align: center;
+		padding: 10px;
+	}
+
+#gallery{
+    padding-top: 50px;
+	}
+
+.logo{
+    height: 30px;
+
+ 	}
+.camara{
+	font-size: 30px;
+	color:black;
+	padding-top: 10px;
+
+
+}
+.centrartexto{
+	text-align: center;
+}
+.pie_foto{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.thumbnail{
+	padding: 0px;
+	border: 6px solid #ddd;
+}
+.navbar{
+	margin-bottom: 0px;
+}
